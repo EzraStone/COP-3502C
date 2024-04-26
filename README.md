@@ -1,6 +1,6 @@
 # COP 3502C - Computer Science 1
 
-This course goes into fundamental concepts of computer science witha strong focus on data structure and alorithms in the C programming language.
+In this comprehensive course on fundamental computer science concepts, we delved deeply into the world of data structures and algorithms, specifically within the context of the C programming language.
 
 ## Topics Covered
 
